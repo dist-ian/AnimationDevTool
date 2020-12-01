@@ -13,7 +13,7 @@ local values_in = [[
       "adt_add_option": "Tambahkan",
       "adt_close_option": "Tutup",
 
-      "adt_generator_error_message": "Please remove the last building first.",
+      "adt_generator_error_message": "Tolong hapus terlebih dahulu bangunan yang telah ada.",
       "adt_select_dummy_title": "Pilih Ukuran Bangunan",
 
       "adt_copy_totalLine_option": "Jumlah Baris",
