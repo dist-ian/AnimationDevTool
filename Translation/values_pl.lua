@@ -13,7 +13,7 @@ local values = [[
       "adt_add_option": "Add",
       "adt_close_option": "Close",
 
-      "adt_generator_error_message": "Tolong hapus terlebih dahulu bangunan yang telah ada.",
+      "adt_generator_error_message": "Please remove the last building first.",
       "adt_select_dummy_title": "Select Building Size",
 
       "adt_copy_totalLine_option": "Total line",
