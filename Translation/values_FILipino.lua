@@ -3,8 +3,8 @@
 local values = [[
   {
     "b_fil": {
-      "draft_dummy_generator_00_title": "Animation Dev.Tool",
-      "draft_dummy_generator_00_text": "Madaling madaragdagan ang 'yong plugin ng mga ilaw sa gabi o animasyon.",
+      "draft_dummy_generator_00_title": "Animasyon na Kasangkapang Dev.",
+      "draft_dummy_generator_00_text": "Madaling madaragdagan ang 'yong plugin ng mga pailaw sa gabi o animasyon.",
       "adt_copy": "Kopyahin sa klipbord",
       "adt_save": "Ilagak sa file",
       "adt_about": "Tungkol",
@@ -38,20 +38,20 @@ local values = [[
       "adt_diffY_manual": "Espasyo sa pagitan ng mga hanay.",
       "adt_offsetY_manual": "Iba't ibang tangkad sa pagitan ng mga kolum.",
       "adt_probability_manual": "Ang tsansa na lilitaw ang animasyon. Kung ang probabilidad ay 1, hindi isusulat ang kodigo.",
-      "adt_base_frame_manual": "Ang kuwadro (frame) ng gusali.\nAng panel na \"Kuwadro ng Base\" (Base Frame) ay maililipat sa pamamagitan ng pagpindot ng boton na kasunod ng \"Kuwadro ng Base\", tapikin at i-hold ang title bar, pagkatapos ay i-drag sa ibang puwesto. Ang puwesto ay nari-reset sa tuwing sinasara ang laro.",
+      "adt_base_frame_manual": "Ang freym ng gusali.\nAng panel na \"Freym ng Base\" ay maililipat sa pamamagitan ng pagpindot ng boton, sa ibaba, katabi ng \"Freym ng Base\", tapikin at i-hold ang title bar, pagkatapos ay i-drag sa ibang puwesto. Ang puwesto ay nari-reset sa tuwing sinasara ang laro.",
       "adt_animationId_title": "ID ng Animasyon",
-      "adt_animationId_manual": "Ang animasyon na idadagdag.",
-      "adt_layer_text": "Sáray (Layer)",
+      "adt_animationId_manual": "Ang animasyong idadagdag.",
+      "adt_layer_text": "Sapin",
       "adt_layer_manual": "Upang mahawakan ang maraming iba't ibang animasyon at layout.",
 
-      "adt_base_frame_title": "Kuwadro ng Base",
+      "adt_base_frame_title": "Freym ng Base",
       "adt_base_type_title": "Uri ng Base",
-      "adt_base_type_frame_title": "Kuwadro",
+      "adt_base_type_frame_title": "Freym",
       "adt_base_type_animation_title": "Animasyon",
       "adt_base_buildingId_title": "ID ng Gusali",
       "adt_base_buildingId_button": "Magpasok ng Id ng Gusali",
-      "adt_base_frame_index_title": "Index ng Kuwadro",
-      "adt_base_layer_title": "Sáray ng Base",
+      "adt_base_frame_index_title": "Index ng Freym",
+      "adt_base_layer_title": "Sapin ng Base",
       "adt_base_animationId_title": "Id ng Anim. Gusali",
       "adt_base_animationId_button": "Magpasok ng Id ng Anim. Gusali",
       "adt_base_enter_x_title": "Magpasok ng X",
@@ -70,25 +70,25 @@ local values = [[
       "adt_dialog_x_title": "Magtakda ng X",
       "adt_dialog_diffX_title": "Magtakda ng Diff X",
       "adt_dialog_probability_title": "Magtakda ng Probabilidad",
-      "adt_dialog_probability_desc": "Magpasok ng numero para sa probabilidad ng paglitaw ng ilaw. Kung ang probabilidad ay 1, ang kodigong \"night light probability\" ay hindi naisasama.",
+      "adt_dialog_probability_desc": "Magpasok ng numero para sa probabilidad ng paglitaw ng ilaw. Kung ang probabilidad ay 1, ang kodigong \"night light probability\" ay hindi isasama.",
       "adt_dialog_row_title": "Magtakda ng Hanay",
       "adt_dialog_y_title": "Magtakda ng Y",
       "adt_dialog_diffY_title": "Magtakda ng Diff Y",
       "adt_dialog_offsetY_title": "Magtakda ng Offset Y",
 
-      "adt_layer_dialog_title": "Pagsasaayos ng Sáray (Layer)",
+      "adt_layer_dialog_title": "Pagsasaayos ng Sapin",
       "adt_layer_counter_title": "Tagabilang",
-      "adt_layer_new_title": "Lumikha ng Bagong Sáray",
+      "adt_layer_new_title": "Lumikha ng Bagong Sapin",
       "adt_layer_show_all_title": "Ipakita ang Lahat ng Animasyon.",
 
-      "adt_save_success_message": "Ilalagak sa ../TheoTown/Animation Dev Tool/_anim.txt",
+      "adt_save_success_message": "Inilagak sa ../TheoTown/Animation Dev Tool/_anim.txt",
       "adt_save_first_error_message": "Err: Mangyaring ipasok ang id ng gusali",
       "adt_save_second_error_message": "Err: Mangyaring ipasok ang id ng anim. gusali",
-      "adt_copy_success_message": "Ilagay ang kodigo sa klipbord",
+      "adt_copy_success_message": "Inilagay ang kodigo sa klipbord",
       "adt_copy_error_message": "Err: Mangyaring ipasok ang id ng animasyon",
 
       // You can enter your name in here and will appear in the plugin about dialog, but you have to contribute in this translation. Please use comma to separate the multiple names and don't erase the written names.
-      // e.g : "Another Name, Your Name, Another Name"
+      // e.g : "Lakan Haraya, Another Name, Your Name, Another Name"
       "adt_contributor_list": "Lakan Haraya"
     }
   }
